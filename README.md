@@ -1,2 +1,0 @@
-# TechproA2
-Scc
